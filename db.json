@@ -1,0 +1,36 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "image": "./src/assets/img/listing-card1.png",
+      "bedrooms": 3,
+      "address": "1234 Main St, London, UK NW95JW",
+      "askingPrice": "$350,000",
+      "status": "Expired"
+    },
+    {
+      "id": "2",
+      "image": "./src/assets/img/listing-card2.png",
+      "bedrooms": 4,
+      "address": "1234 Main St, London, UK NW95JW",
+      "askingPrice": "$850,000",
+      "status": "Expired"
+    },
+    {
+      "id": "3",
+      "image": "./src/assets/img/listing-card3.png",
+      "bedrooms": 2,
+      "address": "1234 Main St, Anytown, AT NW95JW",
+      "askingPrice": "$350,000",
+      "status": "Expired"
+    },
+    {
+      "id": "4",
+      "image": "./src/assets/img/listing-card4.png",
+      "bedrooms": 2,
+      "address": "1234 Main St, Anytown, AT NW95JW",
+      "askingPrice": "$480,000",
+      "status": "Active"
+    }
+  ]
+}
